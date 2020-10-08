@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #252627;
+    font-size: 2em;
+    font-weight: 500;
+    color: white;
+}
+
+footer{
+    background: rgb(129, 84, 84);
+    text-align: center;
+    font-size: 1.5rem;
+    padding: 5px;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li{
+    display: inline;
+}
